@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VAL0099
+- 👀 I’m interested in Python Software Development
+- 🌱 I’m currently learning Python, Django, PostgreSQL
+- 💞️ I'm practicing back-end development so I'm looking forward to collaborating in this domain😉
+- 📫 How to reach me: t.me/Valeriy099
